@@ -1,2 +1,5 @@
 Content filter=lfs diff=lfs merge=lfs -text
 Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset filter=lfs diff=lfs merge=lfs -text
+Content\Megascans\Surfaces\Stucco_Facade_vlwicbc\T_Stucco_Facade_vlwicbc_8K_D.uasset
+Content\Megascans\Surfaces\Stucco_Facade_vlwicbc\T_Stucco_Facade_vlwicbc_8K_N.uasset
+Content\Megascans\Surfaces\Stucco_Facade_vlwicbc\T_Stucco_Facade_vlwicbc_8K_ORDp.uasset
